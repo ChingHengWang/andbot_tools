@@ -4,3 +4,6 @@
 [submodule "fir_noisefilter"]
 	path = fir_noisefilter
 	url = https://github.com/ChingHengWang/fir_noisefilter.git
+[submodule "kalmanfilter"]
+	path = kalmanfilter
+	url = https://github.com/ChingHengWang/kalmanfilter.git
