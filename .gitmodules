@@ -1,0 +1,6 @@
+[submodule "ir_follow_me"]
+	path = ir_follow_me
+	url = https://github.com/ChingHengWang/ir_follow_me.git
+[submodule "fir_noisefilter"]
+	path = fir_noisefilter
+	url = https://github.com/ChingHengWang/fir_noisefilter.git
