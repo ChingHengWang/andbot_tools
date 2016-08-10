@@ -7,3 +7,6 @@
 [submodule "kalmanfilter"]
 	path = kalmanfilter
 	url = https://github.com/ChingHengWang/kalmanfilter.git
+[submodule "inih_pkg"]
+	path = inih_pkg
+	url = https://github.com/ChingHengWang/inih_pkg.git
