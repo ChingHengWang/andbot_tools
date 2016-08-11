@@ -10,3 +10,6 @@
 [submodule "inih_pkg"]
 	path = inih_pkg
 	url = https://github.com/ChingHengWang/inih_pkg.git
+[submodule "debug_trajectory_tool"]
+	path = debug_trajectory_tool
+	url = https://github.com/ChingHengWang/debug_trajectory_tool.git
